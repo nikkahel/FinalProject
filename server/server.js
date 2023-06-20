@@ -6,7 +6,3 @@ app.get('',(req, res) =>{
     res.send('Hello World')
 })
 app.listen(PORT,()=>console.log(`app port on ${PORT}`))
-wefww
-wfwef
-wefwefw
-wfwewef
